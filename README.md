@@ -1,2 +1,2 @@
 # DreamTrip-API
-API da DreamTrip - https://github.com/IsaquePemasi/DreamTrip
+DreamTrip API - https://github.com/IsaquePemasi/DreamTrip
